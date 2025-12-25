@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Agavrile
-- 👀 I’m interested in tech, science , code
-- 🌱 I’m currently learning visual code studio
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🔧 Electronics & RF engineer passionate about science and technology
+📡 Into radio communications, SDR, and applied physics
+💻 Building projects that connect hardware with software
+🖥️ Self-hosting enthusiast | 🚀 Curious, analytical, always learning
 
 <!---
 Agavrile/Agavrile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
